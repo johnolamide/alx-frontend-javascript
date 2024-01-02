@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-default-parameter.js`
+- [x] `3-default-parameter.js`
 
 ## Task 4
 
