@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-constants.js`
+- [x] `0-constants.js`
 
 ## Task 1
 
