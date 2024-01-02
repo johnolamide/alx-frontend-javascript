@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-rest-parameter.js`
+- [x] `4-rest-parameter.js`
 
 ## Task 5
 
