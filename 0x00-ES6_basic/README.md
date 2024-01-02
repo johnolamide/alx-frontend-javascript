@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-block-scoped.js`
+- [x] `1-block-scoped.js`
 
 ## Task 2
 
