@@ -50,4 +50,4 @@
 
 ## Task 12
 
-- [ ] `12-createReportObject.js`
+- [x] `12-createReportObject.js`
