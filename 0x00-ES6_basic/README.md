@@ -46,7 +46,7 @@
 
 ## Task 11
 
-- [ ] `11-createEmployeeObject.js`
+- [x] `11-createEmployeeObject.js`
 
 ## Task 12
 
