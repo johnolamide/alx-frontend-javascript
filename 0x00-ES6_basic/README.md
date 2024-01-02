@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-spread-operator.js`
+- [x] `5-spread-operator.js`
 
 ## Task 6
 
