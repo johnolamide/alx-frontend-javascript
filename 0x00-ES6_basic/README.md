@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-string-interpolation.js`
+- [x] `6-string-interpolation.js`
 
 ## Task 7
 
