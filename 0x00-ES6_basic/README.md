@@ -38,7 +38,7 @@
 
 ## Task 9
 
-- [ ] `9-getFullBudget.js`
+- [x] `9-getFullBudget.js`
 
 ## Task 10
 
