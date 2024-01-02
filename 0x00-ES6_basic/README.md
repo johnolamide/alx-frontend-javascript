@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-arrow.js`
+- [x] `2-arrow.js`
 
 ## Task 3
 
