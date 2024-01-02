@@ -42,7 +42,7 @@
 
 ## Task 10
 
-- [ ] `10-loops.js`
+- [x] `10-loops.js`
 
 ## Task 11
 
