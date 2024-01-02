@@ -34,7 +34,7 @@
 
 ## Task 8
 
-- [ ] `8-getBudgetCurrentYear.js`
+- [x] `8-getBudgetCurrentYear.js`
 
 ## Task 9
 
