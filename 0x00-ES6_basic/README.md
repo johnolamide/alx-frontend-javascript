@@ -30,7 +30,7 @@
 
 ## Task 7
 
-- [ ] `7-getBudgetObject.js`
+- [x] `7-getBudgetObject.js`
 
 ## Task 8
 
