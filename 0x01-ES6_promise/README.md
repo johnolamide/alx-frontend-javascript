@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-all.js`
+- [x] `3-all.js`
 
 ## Task 4
 
