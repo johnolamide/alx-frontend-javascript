@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-promise.js`
+- [x] `0-promise.js`
 
 ## Task 1
 
