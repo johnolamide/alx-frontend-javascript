@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-promise.js`
+- [x] `1-promise.js`
 
 ## Task 2
 
