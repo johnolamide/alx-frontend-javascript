@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-then.js`
+- [x] `2-then.js`
 
 ## Task 3
 
