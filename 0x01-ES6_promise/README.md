@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-photo-reject.js`
+- [x] `5-photo-reject.js`
 
 ## Task 6
 
