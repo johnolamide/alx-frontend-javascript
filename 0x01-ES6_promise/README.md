@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-user-promise.js`
+- [x] `4-user-promise.js`
 
 ## Task 5
 
