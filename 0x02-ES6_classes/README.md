@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-currency.js`
+- [x] `3-currency.js`
 
 ## Task 4
 
