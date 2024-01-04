@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-classroom.js`
+- [x] `0-classroom.js`
 
 ## Task 1
 
