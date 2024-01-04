@@ -10,7 +10,7 @@
 
 ## Task 2
 
-- [ ] `2-hbtn_course.js`
+- [x] `2-hbtn_course.js`
 
 ## Task 3
 
