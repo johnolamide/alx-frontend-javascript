@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-make_classrooms.js`
+- [x] `1-make_classrooms.js`
 
 ## Task 2
 
