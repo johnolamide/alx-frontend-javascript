@@ -18,7 +18,7 @@
 
 ## Task 4
 
-- [ ] `4-pricing.js`
+- [x] `4-pricing.js`
 
 ## Task 5
 
