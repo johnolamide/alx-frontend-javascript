@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-building.js`
+- [x] `5-building.js`
 
 ## Task 6
 
