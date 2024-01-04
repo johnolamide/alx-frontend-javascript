@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-pascal_triangle.py`
+- [x] `0-pascal_triangle.py`
