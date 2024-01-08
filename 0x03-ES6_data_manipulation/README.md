@@ -14,7 +14,7 @@
 
 ## Task 3
 
-- [ ] `3-get_ids_sum.js`
+- [x] `3-get_ids_sum.js`
 
 ## Task 4
 
