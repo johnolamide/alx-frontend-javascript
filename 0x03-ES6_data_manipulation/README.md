@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `0-get_list_students.js`
+- [x] `0-get_list_students.js`
 
 ## Task 1
 
