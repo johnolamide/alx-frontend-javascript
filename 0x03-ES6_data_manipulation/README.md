@@ -6,7 +6,7 @@
 
 ## Task 1
 
-- [ ] `1-get_list_student_ids.js`
+- [x] `1-get_list_student_ids.js`
 
 ## Task 2
 
