@@ -7,10 +7,6 @@ class Building {
     return this._sqrt;
   }
 
-  set sqrt(sqrt) {
-    this._sqrt = sqrt;
-  }
-
   /* eslint-disable class-methods-use-this */
   evacuationWarningMessage() {
     throw new Error('Class extending Building must override evacuationWarningMessage');

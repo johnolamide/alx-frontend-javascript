@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-sky_high.js`
+- [x] `6-sky_high.js`
 
 ## Task 7
 
