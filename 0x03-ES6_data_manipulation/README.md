@@ -34,7 +34,7 @@
 
 ## Task 8
 
-- [ ] `8-clean_set.js`
+- [x] `8-clean_set.js`
 
 ## Task
 
