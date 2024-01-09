@@ -38,7 +38,7 @@
 
 ## Task
 
-- [ ] `9-groceries_list.js`
+- [x] `9-groceries_list.js`
 
 ## Task 10
 
