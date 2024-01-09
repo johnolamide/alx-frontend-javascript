@@ -26,7 +26,7 @@
 
 ## Task 6
 
-- [ ] `6-set.js`
+- [x] `6-set.js`
 
 ## Task 7
 
