@@ -42,4 +42,4 @@
 
 ## Task 10
 
-- [ ] `10-update_uniq_items.js`
+- [x] `10-update_uniq_items.js`
