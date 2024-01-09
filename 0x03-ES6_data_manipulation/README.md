@@ -22,7 +22,7 @@
 
 ## Task 5
 
-- [ ] `5-typed_arrays.js`
+- [x] `5-typed_arrays.js`
 
 ## Task 6
 
