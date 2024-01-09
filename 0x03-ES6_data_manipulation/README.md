@@ -30,7 +30,7 @@
 
 ## Task 7
 
-- [ ] `7-has_array_values.js`
+- [x] `7-has_array_values.js`
 
 ## Task 8
 
