@@ -2,7 +2,7 @@
 
 ## Task 0
 
-- [ ] `task_0/js/main.ts`
+- [x] `task_0/js/main.ts`
 
 ## Task 1
 
